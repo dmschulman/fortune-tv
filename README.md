@@ -22,11 +22,36 @@ Shows include:
 * Dilbert
 * Drawn Together
 * Firefly
+* Frisky Dingo
+* Futurama
+* Generation Kill
+* Harvey Birdman: Attorney at Law
+* Home Movies
+* It's Always Sunny In Philadelphia
+* King Of The Hill
+* Look Around You
+* Lucy: Daughter of the Devil
+* Mad Men
+* Malcolm In The Middle
+* Metalocalypse
+* Monty Python's Flying Circus
+* Moral Orel
+* Mr. Show
+* Mystery Science Theater 3000
+* Newsradio
+* The Office
+* Parks and Recreation
 * Peep Show
+* QI
+* Rick and Morty
+* Robot Chicken
+* Rocko's Modern Life
+* Saturday Night Live
 * Scrubs
 * Sealab 2021
 * Seinfeld
-* Saturday Night Live
+* The Simpsons
+* The Sopranos
 * South Park
 * Squidbillies
 * The Wire
