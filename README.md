@@ -61,3 +61,15 @@ Shows include:
 * Workaholics
 * The X-Files
 * The Young Ones
+
+
+To Do List
+----------
+
+-Wrap lines to 80 characters for cleaner terminal output
+
+-Check all fortunes for errors (I already know there are a few lurking)
+
+-Standardize certain punctuation marks (such as ellipses...)
+
+-Find a good source for Reno 911! quotes (this is one of the few shows where Wikiquotes was lacking in decent content)
